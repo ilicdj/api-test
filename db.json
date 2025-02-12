@@ -38,21 +38,5 @@
     "publisher": "Dargaud",
     "debutYear": 1959,
     "genre": "Humor, Adventure"
-  },
-  {
-    "id": 6,
-    "title": "Naruto",
-    "author": "Masashi Kishimoto",
-    "publisher": "Shueisha",
-    "debutYear": 1999,
-    "genre": "Action, Adventure"
-  },
-  {
-    "id": 7,
-    "title": "Dragon Ball",
-    "author": "Akira Toriyama",
-    "publisher": "Shueisha",
-    "debutYear": 1984,
-    "genre": "Action, Adventure"
   }
 ]
