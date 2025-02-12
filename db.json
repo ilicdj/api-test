@@ -1,42 +1,44 @@
-[
-  {
-    "id": 1,
-    "title": "Dylan Dog",
-    "author": "Tiziano Sclavi",
-    "publisher": "Sergio Bonelli Editore",
-    "debutYear": 1986,
-    "genre": "Horror, Mystery"
-  },
-  {
-    "id": 2,
-    "title": "Spider-Man",
-    "author": "Stan Lee, Steve Ditko",
-    "publisher": "Marvel Comics",
-    "debutYear": 1962,
-    "genre": "Superhero"
-  },
-  {
-    "id": 3,
-    "title": "Batman",
-    "author": "Bob Kane, Bill Finger",
-    "publisher": "DC Comics",
-    "debutYear": 1939,
-    "genre": "Superhero"
-  },
-  {
-    "id": 4,
-    "title": "One Piece",
-    "author": "Eiichiro Oda",
-    "publisher": "Shueisha",
-    "debutYear": 1997,
-    "genre": "Adventure, Fantasy"
-  },
-  {
-    "id": 5,
-    "title": "Asterix",
-    "author": "René Goscinny, Albert Uderzo",
-    "publisher": "Dargaud",
-    "debutYear": 1959,
-    "genre": "Humor, Adventure"
-  }
-]
+{
+  "comics":[
+            {
+            "id": 1,
+            "title": "Dylan Dog",
+            "author": "Tiziano Sclavi",
+            "publisher": "Sergio Bonelli Editore",
+            "debutYear": 1986,
+            "genre": "Horror, Mystery"
+          },
+          {
+            "id": 2,
+            "title": "Spider-Man",
+            "author": "Stan Lee, Steve Ditko",
+            "publisher": "Marvel Comics",
+            "debutYear": 1962,
+            "genre": "Superhero"
+          },
+          {
+            "id": 3,
+            "title": "Batman",
+            "author": "Bob Kane, Bill Finger",
+            "publisher": "DC Comics",
+            "debutYear": 1939,
+            "genre": "Superhero"
+          },
+          {
+            "id": 4,
+            "title": "One Piece",
+            "author": "Eiichiro Oda",
+            "publisher": "Shueisha",
+            "debutYear": 1997,
+            "genre": "Adventure, Fantasy"
+          },
+          {
+            "id": 5,
+            "title": "Asterix",
+            "author": "René Goscinny, Albert Uderzo",
+            "publisher": "Dargaud",
+            "debutYear": 1959,
+            "genre": "Humor, Adventure"
+          }
+  ]
+}
